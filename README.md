@@ -28,12 +28,28 @@ I'm Eder Gonçalves, I'm a Software Engineer 👨‍💻:computer: who is passio
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ederlopesgoncalves&show_icons=true)
+#### Techs
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-EE1717?style=flat-square&logo=angular&logoColor=white)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ederlopesgoncalves) 
+![github stats](https://github-readme-stats.vercel.app/api?username=ederlopesgoncalves&show_icons=true&theme=radical)
 
-<a href="https://github.com/ederlopesgoncalves"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dederlopesgoncalves&longCache=true"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ederlopesgoncalves&layout=compact&theme=radical)](https://github.com/ederlopesgoncalves/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ederlopesgoncalves)
 
 > :octocat: [ederlopesgoncalves.github.io](https://ederlopesgoncalves.github.io)
 
----
+<!--
+<a href="https://github.com/ederlopesgoncalves"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dederlopesgoncalves&longCache=true"/></a>
+-->

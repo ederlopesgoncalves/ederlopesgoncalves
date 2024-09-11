@@ -44,8 +44,6 @@ I'm Eder Gonçalves, I'm a Software Engineer 👨‍💻:computer: who is passio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ederlopesgoncalves&layout=compact&theme=radical)](https://github.com/ederlopesgoncalves/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ederlopesgoncalves)
-
 > :octocat: [ederlopesgoncalves.github.io](https://ederlopesgoncalves.github.io)
 
 <!--

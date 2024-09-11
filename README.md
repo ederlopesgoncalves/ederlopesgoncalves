@@ -3,8 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ederlopesgoncalves/en/)](https://www.linkedin.com/in/ederlopesgoncalves/en/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ederlopesgoncalves@gmail.com)](mailto:ederlopesgoncalves@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ederlopesgoncal)](https://twitter.com/ederlopesgoncal)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/ederlopesgoncalves)](https://t.me/ederlopesgoncalves)
 
 ## What's up my friends 👋
 

@@ -6,7 +6,7 @@
 
 ## What's up my friends 👋
 
-I'm Eder Gonçalves, I'm a Software Engineer 👨‍💻:computer: who is passionate about technologies and open source.🚀
+I'm Eder Gonçalves, I'm a Software Engineer 👨‍💻💻 who is passionate about technologies and open source.🚀
 
 ### About
 - 🔭 **Working:** Mobile-App & Web Development :iphone: | Cloud :cloud: 
